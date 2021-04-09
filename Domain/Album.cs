@@ -19,6 +19,6 @@ namespace DotNetProject.Domain
 
         public int Rating { get; set; }
 
-        int IArtistContainer.ArtistId => this.Artist.Id;
+        int? IArtistContainer.ArtistId => this.Artist.Id;
     }
 }
