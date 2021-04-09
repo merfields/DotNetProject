@@ -1,0 +1,4 @@
+C:\Users\mrfields\source\repos\DotNetProject\DotNetProject.BLL\bin\Debug\netcoreapp3.1\DotNetProject.Domain.dll
+C:\Users\mrfields\source\repos\DotNetProject\DotNetProject.BLL\obj\Debug\netcoreapp3.1\DotNetProject.BLL.csprojAssemblyReference.cache
+C:\Users\mrfields\source\repos\DotNetProject\DotNetProject.BLL\obj\Debug\netcoreapp3.1\DotNetProject.BLL.AssemblyInfoInputs.cache
+C:\Users\mrfields\source\repos\DotNetProject\DotNetProject.BLL\obj\Debug\netcoreapp3.1\DotNetProject.BLL.AssemblyInfo.cs

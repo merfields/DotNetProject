@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DotNetProject.Domain.Contracts
 {
-    interface IAlbumIdentity
+    public interface IAlbumIdentity
     {
         int Id { get; }
     }

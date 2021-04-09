@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lBYDmlBxKo3ghzBZyZXarCPs8h2qX0WzKOr6k0rG+I+2QqgQPrOudAW4+YW204LL1PGvUX72ivw3pos4LztiyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrfields\\source\\repos\\DotNetProject\\DotNetProject.BLL\\DotNetProject.BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrfields\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.5\\microsoft.entityframeworkcore.analyzers.5.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

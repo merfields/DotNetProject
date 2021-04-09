@@ -4,8 +4,8 @@ using System.Text;
 
 namespace DotNetProject.Domain.Contracts
 {
-    interface IArtistContainer
+    public interface IArtistContainer
     {
-        public int ArtistId { get; }
+        public int? ArtistId { get; }
     }
 }

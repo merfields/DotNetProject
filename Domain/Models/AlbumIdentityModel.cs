@@ -6,7 +6,7 @@ using DotNetProject.Domain.Contracts;
 namespace DotNetProject.Domain.Models
 {
     
-    class AlbumIdentityModel : IAlbumIdentity
+    public class AlbumIdentityModel : IAlbumIdentity
     {
         public int Id { get; }
 

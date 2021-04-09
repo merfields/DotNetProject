@@ -5,7 +5,7 @@ using DotNetProject.Domain.Contracts;
 
 namespace DotNetProject.Domain.Models
 {
-    class AlbumUpdateModel:IArtistContainer, IAlbumIdentity
+    public class AlbumUpdateModel:IArtistContainer, IAlbumIdentity
     {
         public int Id { get; set; }
 
